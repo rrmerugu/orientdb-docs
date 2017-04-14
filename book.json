@@ -61,7 +61,7 @@
       ]
     },
     "versions": {
-      "gitbookConfigURL": "https://raw.githubusercontent.com/orientechnologies/orientdb-docs/docs_review_30/book.json",
+      "gitbookConfigURL": "https://raw.githubusercontent.com/orientechnologies/orientdb-docs/develop/book.json",
 			"type": "branches",
       "includeFilepath": true,
       "options": [
@@ -83,12 +83,12 @@
         },
         {
           "value": "http://orientdb.com/docs/3.0.x",
-          "text": "Version 3.0-Milestones",
-          "selected": true
+          "text": "Version 3.0-Milestones"          
         },
         {
           "value": "http://orientdb.com/docs/develop",
-          "text": "Version Development"
+          "text": "Version Development",
+	  "selected": true
         }
       ]
     },
